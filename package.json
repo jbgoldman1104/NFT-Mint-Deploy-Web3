@@ -1,3 +1,4 @@
+{
   "dependencies": {
     "@openzeppelin/contracts": "^4.3.2",
     "@project-serum/anchor": "^0.18.0",
