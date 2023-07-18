@@ -3,12 +3,6 @@
  * common settings for different networks and features like migrations,
  * compilation and testing. Uncomment the ones you need or modify
  * them to suit your project as necessary.
- *
- * More information about configuration can be found at:
- *
- * trufflesuite.com/docs/advanced/configuration
- *
- * To deploy via Infura you'll need a wallet provider (like @truffle/hdwallet-provider)
  * to sign your transactions before they're sent to a remote public node. Infura accounts
  * are available for free at: infura.io/register.
  *
